@@ -7,8 +7,11 @@ Day 1:
 - [ ] Import bootstrap from the CDN.
 - [ ] Style your buttons with bootstrap.
 - [ ] Choose 2 out of the following to add to your page: list, boarder, spacing, text, colors, opacity.
+      
 Bonus: Add an about.html page with your name in a header H1 tag. Link to from the index.html page in a nav.
+
 Bonus: In about.html add a picture of yourself. Introduce yourself in a few sentences.
+
 BONUS: use Canva to create a free professional headshot with AI.
  
 
