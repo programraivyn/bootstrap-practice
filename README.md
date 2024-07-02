@@ -33,6 +33,7 @@ Cards, Whiteboard
 - [ ] Create a page called holidays.html
 - [ ] Choose at least 4 holidays
 - [ ] Make one Bootstrap card for each holiday.
+
 BONUS: Create an image for each holiday by generating an AI assisted image in Canva. You might have to try a few time to get what you want. Download and add it to the card using appropriate bootstrap classes.
 
 BONUS: put the cards into a grid using Bootstrap ROW and COLs.
